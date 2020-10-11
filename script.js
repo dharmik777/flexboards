@@ -12,9 +12,6 @@ var questions = [
   },
 ];
 
-var myElement = document.querySelector("questions");
-  myElement.getElementsByClassName.backgroundColor = "#D93600"
-
 var questionEl = document.querySelector("#question");
 var optionListEl = document.querySelector("#option-list");
 var questionResultEl = document.querySelector("#question-result");
